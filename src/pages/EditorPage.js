@@ -171,8 +171,8 @@ const EditorPage = () => {
             language: currLang,
             stdin: inputText,
             versionIndex: "4",
-            clientId: process.env.REACT_APP_CLIENT_ID,
-            clientSecret: process.env.REACT_APP_CLIENT_SECRET
+            clientId: "8f32fa7f47ae13d9e1fe3a8a6124dd86",
+            clientSecret: "70cbcce67aaeccca84668fdafa07f3d3a00829749bf3f2a2ab1d78ed3fca90c5"
         };
         const axiosConfig = {
             headers: {
