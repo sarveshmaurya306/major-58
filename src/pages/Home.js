@@ -64,7 +64,7 @@ const Home = () => {
                     <button className="btn joinBtn" onClick={joinRoom}>Join</button>
                     <span className="createInfo">
                         Create: &nbsp;
-                        <a href="" className="NewRoomBtn" onClick={createNewRoom}>
+                        <a href="/home" className="NewRoomBtn" onClick={createNewRoom}>
                             New Room
                         </a>
                     </span>

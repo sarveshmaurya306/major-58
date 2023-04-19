@@ -1,5 +1,4 @@
 import React from 'react';
-import Avatar from 'react-avatar';
 import { BsFillCircleFill } from 'react-icons/bs';
 
 const Client = ({ username }) => {
